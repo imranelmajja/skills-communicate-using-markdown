@@ -1,2 +1,3 @@
- #Este es un <h1>encabezado, que es el más grande.
-##Este es un <h2>encabezado
+ #Este es un encabezado, que es el más grande.
+##Este es un encabezado
+###Este es un encabezado
